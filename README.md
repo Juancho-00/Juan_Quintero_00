@@ -44,7 +44,7 @@
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🎯 Proyectos destacados
 
 ### 🛫 [Data Analytics aplicado a Negocios](./DA APLICADO NEGOCIOS)
 **Suite completa de 6 proyectos empresariales**
