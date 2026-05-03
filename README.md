@@ -78,7 +78,7 @@
 
 ---
 
-## 🎓 Metodología de Trabajo
+## 🎓 Metodología de trabajo
 
 ### 📋 **Proceso End-to-End**
 1. **🎯 Business Understanding**: Definición clara del problema y objetivos
