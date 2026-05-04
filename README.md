@@ -116,6 +116,6 @@
 
 <div align="center">
 
-**💡 "Los datos son la nueva cryptocoin, pero el análisis es el ecosistema para operar en ganacias"**
+**💡 "Los datos son la nueva cryptocoin, pero, el análisis es el ecosistema para operar en ganancias"**
 
 *Disponible para asesorías financieras, sesiones de consultoría y oportunidades laborales*
