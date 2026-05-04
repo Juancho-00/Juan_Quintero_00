@@ -13,7 +13,7 @@
 
 ## 👨‍💼 Sobre mí
 
-**Financial Engineer** especializado en la implementación de soluciones de **Data Business analytics** y **Financial Analytics** para resolver problemas de negocio.
+**Financial Engineer** especializado en la implementación de soluciones de **Data Business Analytics** y **Financial Analytics** para resolver problemas de negocio.
 
 - 🔬 **Especialización**: Data Business analytics, Financial analytics, IA solutions
 - 🏢 **Enfoque**: ROI medible
