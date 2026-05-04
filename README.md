@@ -26,8 +26,8 @@
 ## ⚖️ Tech Stack
 
 ### 🐍 **Lenguajes**
-![Python](https://img.shields.io/badge/Python-Expert-purple?logo=python)
-![R](https://img.shields.io/badge/R-Expert-purple?logo=r)
+![Python](https://img.shields.io/badge/Python-Advanced-purple?logo=python)
+![R](https://img.shields.io/badge/R-Advanced-purple?logo=r)
 
 ### 📊 **Data Analytics**
 ![Pandas](https://img.shields.io/badge/Pandas-Advanced-red?logo=pandas)
@@ -35,10 +35,10 @@
 ![Excel](https://img.shields.io/badge/Excel-Advanced-red?logo=excel)
 
 ### 📈 **Business Intelligence**
-![Power BI](https://img.shields.io/badge/Power%20BI-Expert-yellow?logo=powerbi)
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?logo=powerbi)
 
 ### 🗄️ **Bases de Datos**
-![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=mysql)
 
 ### ☁️ **Cloud**
 
