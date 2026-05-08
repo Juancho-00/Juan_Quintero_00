@@ -25,7 +25,7 @@
 
 ## ⚖️ Tech Stack
 
-### 🐍 **Lenguages**
+### 🐍 **Languages**
 ![Python](https://img.shields.io/badge/Python-Advanced-purple?logo=python)
 ![R](https://img.shields.io/badge/R-Advanced-purple?logo=r)
 
